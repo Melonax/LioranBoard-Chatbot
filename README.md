@@ -9,6 +9,8 @@ Premade deck for LioranBoard with several features common in chatbots:
 * Quotes
 * Welcome events
 
+![Screenshot](https://user-images.githubusercontent.com/55620774/144302194-9962f893-c963-40db-b385-800569eecb4b.png)
+
 Includes documentation for installation instructions and usage
 
 Includes import instructions in case you want to migrate over from Streamlabs Chatbot
