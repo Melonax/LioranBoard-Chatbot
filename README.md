@@ -14,6 +14,7 @@ Premade deck for LioranBoard with several features common in chatbots:
 * Welcome events
 
 > **NOTE:** To update from a prior version, delete the LioranBoard Chatbot deck and re-add it.
+
 > **NOTE:** The chatbot requires LioranBoard version 2.07.6 or higher
 
 ![Screenshot](https://i.imgur.com/A8WZ69u.jpeg)
