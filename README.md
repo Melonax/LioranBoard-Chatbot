@@ -1,10 +1,14 @@
-## **IMPORTANT:** The chatbot requires LioranBoard version 2.07.6 or higher. Installing it on a lower version will result in a runtime error/crash on launch!
-
 [Downloads](https://github.com/Melonax/LioranBoard-Chatbot/releases)
 
 [LioranBoard Chatbot documentation](https://github.com/Melonax/LioranBoard-Chatbot/blob/main/LioranBoard%20Chatbot%20Documentation.pdf)
 
-To install, simply copy the contents from the LioranBoard Chatbot deck.txt file and click Paste Deck in the LB2 Receiver. Please refer to the documentation before adjusting any of the .csv files that will be created in your chatbot folder.
+**Installation:**
+1.	Launch the LioranBoard 2 Receiver (v2.07.6 or higher)
+2.	Click ‘Transmitter’ in the left side menu
+3.	Select ‘Install an Extension’
+4.	Select `LioranBoard Chatbot.lb2` and click Open
+
+Please refer to the documentation before adjusting any of the .csv files that will be created in your chatbot folder.
 
 # LioranBoard Chatbot
 Premade deck for LioranBoard with several features common in chatbots:
